@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190317184523",
+    "project_id": "fir-signup-72414",
+    "storage_bucket": "fir-signup-72414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190317184523:android:12d231c790d632b190690e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signup_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190317184523-ose6jqcghsdo5tq9tjb85oq8r65375e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64Rpb1clkge43qYbW4PrXatvFca3mYA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190317184523-ose6jqcghsdo5tq9tjb85oq8r65375e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
